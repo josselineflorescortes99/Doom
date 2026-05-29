@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d9c5c7c8323b65448c6bf4be255277b, type: 3}
   m_Name: Gun
   m_EditorClassIdentifier: Assembly-CSharp::GunData
-  damage: 0
-  fireRate: 0
-  totalBullets: 0
-  reloadTime: 0
-  cartidgeSize: 0
-  gunType: 0
+  damage: 10
+  fireRate: 20
+  totalBullets: 40
+  reloadTime: 2
+  cartridgeSize: 10
+  gunType: 1

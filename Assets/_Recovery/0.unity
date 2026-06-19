@@ -6083,9 +6083,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemySpawner
   enemySpawns:
-  - enemyPrefab: {fileID: 2484213258604118809, guid: 36990c80c044076498f21d975c4bff69, type: 3}
+  - enemyPrefab: {fileID: 4754768395975532954, guid: 9bcd3affe9c231d4a87130a44002eb11, type: 3}
     spawnPoint: {fileID: 1168105182}
-  - enemyPrefab: {fileID: 2484213258604118809, guid: 36990c80c044076498f21d975c4bff69, type: 3}
+  - enemyPrefab: {fileID: 4754768395975532954, guid: 9bcd3affe9c231d4a87130a44002eb11, type: 3}
     spawnPoint: {fileID: 998138204}
   onEnemiesSpawned:
     m_PersistentCalls:

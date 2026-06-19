@@ -6,7 +6,7 @@ public class EnemyFollow : Enemy
    [SerializeField]
    private float speed = 3f;
    [SerializeField]
-   private float yPosition = 2f;
+   private float yPosition = 1f;
    [SerializeField]  
    private float pushForce =5f;
    private bool isFollowing = true;

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 459fb76a616e8b24da592b450dce7fc3
+guid: 44360d7413e189f45801247e5dab0d13
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -7,43 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: metroid_rig_body_SHD
-    second: {fileID: 2100000, guid: 56c59f83021820345915793ed7210619, type: 2}
+      name: Bone.002
+    second: {fileID: 2100000, guid: 268f607d73417944facd2d906da791c6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: metroid_rig_mandible_SHD
-    second: {fileID: 2100000, guid: 3e88bd6623e5d0740a50b5dcf4c2ceb5, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: metroid_rig_membrane_SHD
-    second: {fileID: 2100000, guid: 76027841dd502d545ba4bc0fe0e335c6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: metroid_rig_new_neurons_nuclei_SHD
-    second: {fileID: 2100000, guid: 982e987d8fedb034eb914427b5bb81cc, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: metroid_rig_nuclei_SHD
-    second: {fileID: 2100000, guid: 443751ed05b1b0f409bc7abef2047f6a, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Base_Color
-    second: {fileID: 2800000, guid: b315e0a91fbc0d0428c9706ae5fe227d, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Opacity
-    second: {fileID: 2800000, guid: 4b8ed3f54e05f2641ba39ed0bb9fa5f4, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Roughness
-    second: {fileID: 2800000, guid: a94d3030a2557804baf6e511d17e4510, type: 3}
+      name: Material.002
+    second: {fileID: 2100000, guid: 48b22bd7b5703db4a9c4e1072b104b1c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

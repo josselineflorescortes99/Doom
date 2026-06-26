@@ -658,7 +658,7 @@ MonoBehaviour:
   damage: 10
   speed: 4
   yPosition: 3
-  pushForce: 5
+  pushForce: 200
 --- !u!1001 &2660079418016671731
 PrefabInstance:
   m_ObjectHideFlags: 0

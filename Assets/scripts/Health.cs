@@ -12,8 +12,11 @@ public class Health : MonoBehaviour
    private UnityEvent OnDeath;
    [SerializeField]
    private UnityEvent onDamageTaken;
+   [SerializeField]
+   private UnityEvent<Transform> onHealth;
    private float currentHealth;
    public float CurrentHealth => currentHealth;
+   public float MaxHealth => maxHealth;
    public void InitializeHealth()
     {
        currentHealth = maxHealth;

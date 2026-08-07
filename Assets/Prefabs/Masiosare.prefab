@@ -462,7 +462,7 @@ GameObject:
   - component: {fileID: 3208658274197480018}
   - component: {fileID: 1778940048441324853}
   - component: {fileID: 1698497449574943996}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Masiosare
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -587,7 +587,7 @@ MonoBehaviour:
   fireRate: 10
   shootPivot: {fileID: 2876806674077682100}
   bulletPrefab: {fileID: 4337721402017521837, guid: 1e0670a4a43c72342ace26157db1c9be, type: 3}
-  speed: 2
+  fireParticlesPrefab: {fileID: 0}
 --- !u!1 &7693663894737085041
 GameObject:
   m_ObjectHideFlags: 0

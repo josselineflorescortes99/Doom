@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3565216772942093824}
   - component: {fileID: 5451656273397808873}
   - component: {fileID: 9039595884574790496}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AutomaticGun
   m_TagString: Gun
   m_Icon: {fileID: 0}
@@ -89,6 +89,9 @@ MonoBehaviour:
   bulletPivot: {fileID: 6919996810687265245}
   bulletPrefab: {fileID: 4337721402017521837, guid: a10ff1c426a0f7b47a6290af9f8b4c65, type: 3}
   fireParticlesPrefab: {fileID: 4021103657954561961, guid: 5c755f9bc5253ea418e919994537dcc7, type: 3}
+  aimLayerMask:
+    serializedVersion: 2
+    m_Bits: 64
 --- !u!1 &2839741041586404316
 GameObject:
   m_ObjectHideFlags: 0

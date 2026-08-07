@@ -89,7 +89,7 @@ GameObject:
   - component: {fileID: 2012052483582387537}
   - component: {fileID: 152190627760067732}
   - component: {fileID: 3109442042039953736}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: CronenEnemy
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -205,6 +205,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  onHeal:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!114 &152190627760067732
 MonoBehaviour:
   m_ObjectHideFlags: 0

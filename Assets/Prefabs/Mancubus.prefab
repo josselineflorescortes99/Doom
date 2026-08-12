@@ -309,6 +309,7 @@ MonoBehaviour:
   shootPivot: {fileID: 6964840055935087617}
   bulletPrefab: {fileID: 4337721402017521837, guid: 1e0670a4a43c72342ace26157db1c9be, type: 3}
   fireParticlesPrefab: {fileID: 5880797563127281583, guid: 265d3a5ba69981a4698ceabcedf368b0, type: 3}
+  speed: 1
 --- !u!65 &3393265286837337922
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -353,7 +354,7 @@ Rigidbody:
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
   m_UseGravity: 1
-  m_IsKinematic: 1
+  m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0

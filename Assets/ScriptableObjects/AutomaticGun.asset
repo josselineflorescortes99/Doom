@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d9c5c7c8323b65448c6bf4be255277b, type: 3}
   m_Name: AutomaticGun
   m_EditorClassIdentifier: Assembly-CSharp::GunData
-  damage: 10
+  damage: 20
   fireRate: 1
   totalBullets: 40
-  reloadTime: 4
+  reloadTime: 5
   cartridgeSize: 1
   gunType: 1
   shootSoundName: GUNMisc_Gun Shot Loud_PE111419

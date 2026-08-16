@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Gun
   m_EditorClassIdentifier: Assembly-CSharp::GunData
   damage: 10
-  fireRate: 20
-  totalBullets: 40
-  reloadTime: 2
-  cartridgeSize: 50
+  fireRate: 10
+  totalBullets: 80
+  reloadTime: 3
+  cartridgeSize: 40
   gunType: 0
   shootSoundName: GUNMisc_Gun Shot Loud_PE111419
   reloadSoundName: Gun Clip Load

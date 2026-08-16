@@ -522,7 +522,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.294, y: 1.73, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 2549100466852806680}
   - {fileID: 6134809611021525830}
@@ -589,7 +589,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Health
   healthBar: {fileID: 4981999612962146452}
-  maxHealth: 100
+  maxHealth: 75
   OnDeath:
     m_PersistentCalls:
       m_Calls:
